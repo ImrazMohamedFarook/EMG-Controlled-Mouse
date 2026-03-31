@@ -12,6 +12,3 @@ This project allows users to control a computer mouse using **EMG signals** dete
 - **EMG Sensors**
 - **Signal Processing Circuits**
 - **Mouse Control via Muscle Signals**
-
-## Project Link
-[View on GitHub](https://github.com/ImrazMohamedFarook/FlappyBird-EMG)
