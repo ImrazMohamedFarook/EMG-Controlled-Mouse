@@ -1,7 +1,7 @@
 # Flappy Bird via EMG-Controlled Mouse
 
 ## Overview
-This project allows users to control a computer mouse using **EMG signals** detected from muscle activity. The mouse can click when muscle signals are detected, allowing a unique way to play the **Flappy Bird** game.
+This project allows users to control a **computer mouse** using **EMG signals** detected from muscle activity. The mouse can click when muscle signals are detected, allowing a unique way to play the **Flappy Bird** game.
 
 ## Features
 - **EMG Sensors**: Converts muscle signals into movements for controlling a computer mouse.
@@ -12,3 +12,6 @@ This project allows users to control a computer mouse using **EMG signals** dete
 - **EMG Sensors**
 - **Signal Processing Circuits**
 - **Mouse Control via Muscle Signals**
+
+## Functionality
+By using muscle activity, this project converts EMG signals into mouse movements and clicks. Users can control the **Flappy Bird** game purely through their muscle activity, demonstrating the potential for assistive technology.
